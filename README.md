@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# DEV264 - Deep dive into SAP Cloud Platform Workflow Management
 
 ## Description
 
