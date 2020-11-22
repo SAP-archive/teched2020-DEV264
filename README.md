@@ -9,14 +9,23 @@ This repository contains the material for the SAP TechEd 2020 session called DEV
 SAP Cloud Platform Workflow Management is a serivce enabling customers to automate workflows, manage decisions and gain real time visibility into processes.
 The following key capablities are part of this service.
 - **Workflow** - Automating processes,extending processes or orchestrating process steps across line of business applications.
-- **Business Rules**
-- **Process Visivility**
-- **My Inbox**
-Workflow management provides **Live Process Content** enabling customers to accelerate workflow automation by confifuring or extending these process content.
+- **Business Rules** - Managing decisions centrally and seperat decision logic from application logic.
+- **Process Visivility** - Real time visibility into business process across processes and insight to actions.
+- **My Inbox** - Enable business users to claim and complete their workflow tasks with FIORI user expereince. 
+Workflow management provides **Live Process Content** enabling customers to accelerate workflow automation by configuring or extending these process content.
+
+In this excercise you will learn advanced capabilities of Workflow Management are included.
+- Prinicipal Propagation - How to call APIs from Workflow using the credentials of a process participant.
+- Reference Subflow - How to modularize workflows.
+- Substitution - Substitute a user during absence with another user so that all workflow tasks will be assigned to the substitute.
+- Insight to Action - Notifying Process Admins or Process Owners as and when process status changes to Failed, Suspended, Overdue or threshold violation. Enable business users to perform action based on process status. for eg: Workflow task attributes like priority from process visiblity.
+- Define Process events using Workflow attributes
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are
+- SAP Cloud Platform Workflow Management Subscription
+- Basic knowledge of SAP Cloud Platform
 
 ## Exercises
 
