@@ -19,7 +19,7 @@ In this excercise you will learn advanced capabilities of Workflow Management ar
 - Reference Subflow - How to modularize workflows.
 - Substitution - Substitute a user during absence with another user so that all workflow tasks will be assigned to the substitute.
 - Insight to Action - Notifying Process Admins or Process Owners as and when process status changes to Failed, Suspended, Overdue or threshold violation. Enable business users to perform action based on process status. for eg: Workflow task attributes like priority from process visiblity.
-- Define Process events using Workflow attributes
+- Define Process events using Workflow attributes.
 
 ## Requirements
 
@@ -28,8 +28,9 @@ The requirements to follow the exercises in this repository are
 - Basic knowledge of SAP Cloud Platform
 
 ## Exercises
-
+There are four excercises in this session. 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+
 
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - First Exercise Description](exercises/ex1/)
