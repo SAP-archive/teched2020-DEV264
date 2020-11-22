@@ -2,11 +2,17 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2020 session called DEV264 - Deep dive into  SAP Cloud Platform Workflow Management.
 
 ## Overview
 
-This session introduces attendees to...
+SAP Cloud Platform Workflow Management is a serivce enabling customers to automate workflows, manage decisions and gain real time visibility into processes.
+The following key capablities are part of this service.
+- **Workflow** - Automating processes,extending processes or orchestrating process steps across line of business applications.
+- **Business Rules**
+- **Process Visivility**
+- **My Inbox**
+Workflow management provides **Live Process Content** enabling customers to accelerate workflow automation by confifuring or extending these process content.
 
 ## Requirements
 
