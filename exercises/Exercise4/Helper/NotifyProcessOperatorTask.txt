@@ -1,0 +1,5 @@
+Workflow Details/RequestID		${context.WorkflowInstanceDetail.businessKey}
+Workflow Details/Subject		${context.WorkflowInstanceDetail.subject}
+Workflow Details/Status			${context.SubStatus}
+Workflow Details/Started At		${context.WorkflowInstanceDetail.startedAt}
+Workflow Details/Started By		${context.WorkflowInstanceDetail.startedBy}
