@@ -1,0 +1,12 @@
+Workflow Details/RequestID		${context.WorkflowInstanceDetail.businessKey}
+Workflow Details/Subject		${context.WorkflowInstanceDetail.subject}
+Workflow Details/Status			${context.WorkflowInstanceDetail.status}
+Workflow Details/Started At		${context.WorkflowInstanceDetail.startedAt}
+Workflow Details/Started By		${context.WorkflowInstanceDetail.startedBy}
+
+Error/Messages				${context.WorkflowInstanceDetail.ErrorMessages}
+
+Error/Messages/Acitivity		${item.activityName}
+Error/Messages/Message			${item.message}
+Error/Messages/Timestamp		${item.timestamp}
+Error/Messages/ErrorCode		${item.errorCode}
