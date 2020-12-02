@@ -42,19 +42,19 @@ Description: In this exercise you will model workflow froms scratch and configur
 
 Duration - 30 minutes
 
-**Exercise 2**: [Execute and Montior Cloud Platform Workflow](www.sap.com)
+**Exercise 2**: [Execute and Montior Cloud Platform Workflow](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise2/DEV264%20-%20Execute%20and%20Monitor%20Workflow.pdf)
 
 Description: In this exercise you will create instance of the modeled workflow, monitor the instance and complete the task.
 
 Duration - 5 minutes
 
-**Exercise 3**: [Insight to Action - User Action](www.sap.com)
+**Exercise 3**: [Insight to Action - User Action](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise3/DEV264%20-%20Restart%20Workflow%20%20-%20Insight%20to%20Action.pdf)
 
 Description: In this exercise you will model a workflow to configure a user action to in SAP Cloud Platform Process Visibility
 
 Duration - 15 minutes
 
-**Exercise 4**: [Insight to Action - System Action](www.sap.com)
+**Exercise 4**: [Insight to Action - System Action](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise4/DEV264%20-%20Notify%20Process%20Administrators%20-%20Insight%20to%20Action.pdf)
 
 Description: In this exercise you will model a workflow to configure a system action in SAP Cloud Platform Process Visibility
 
