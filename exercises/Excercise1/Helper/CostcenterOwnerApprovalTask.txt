@@ -1,0 +1,21 @@
+Request/ID				${context.Request.RequestId}
+Request/First Name			${context.Request.FirstName}
+Request/Last Name			${context.Request.LastName}
+Request/Comments			${context.Request.Comments}
+
+Investment/Business Unit		${context.Investment.BusinessUnit}
+Investment/Type				${context.Investment.Type}
+Investment/Country			${context.Investment.Country}
+Investment/CAPEX			${context.Investment.CAPEX}
+Investment/OPEX				${context.Investment.OPEX}
+Investment/Total Cost			${context.Investment.TotalCost}
+Investment/Currency			${context.Investment.Currency}
+
+Approver Comment/Comment		${context.Approver.Comment}
+
+Comments HistoryComments		${context.Comments}
+
+Comments HistoryComments/User		${item.User}
+Comments HistoryComments/Role		${item.Role}
+Comments HistoryComments/Decision	${item.Decision}
+Comments HistoryComments/Comment	${item.Comment}

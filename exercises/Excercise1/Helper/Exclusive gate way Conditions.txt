@@ -1,0 +1,3 @@
+${usertasks.usertask1.last.decision=="reject"}
+
+${usertasks.usertask2.last.decision=="reject"}
