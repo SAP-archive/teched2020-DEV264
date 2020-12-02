@@ -1,0 +1,14 @@
+ApproverEmail	${context.Approver.Email}
+Decision	${context.Decision}
+Approver	${context.Approver.UserId}
+Currency	${context.Investment.Currency}
+TotalCost	${context.Investment.TotalCost}
+OPEX		${context.Investment.OPEX}
+CAPEX		${context.Investment.CAPEX}
+Country		${context.Investment.Country}
+InvestmentType	${context.Investment.Type}
+BusinessUnit	${context.Investment.BusinessUnit}
+LastName	${context.Request.LastName}
+FirstName	${context.Request.FirstName}
+RequesterId	${context.Request.UserId}
+RequestId	${context.Request.RequestId}

@@ -1,0 +1,31 @@
+{
+    "Request": {
+      "RequestId": "REQ01",
+      "FirstName": ""
+      "LastName": "",
+      "Email": "",
+      "UserId": "",
+      "Comments": "Please approve the request"
+    },
+    "Investment": {
+      "Description": "New Building",
+      "Type": "Building",
+      "BusinessUnit": "Manufacturing",
+      "Country": "Germany",
+      "CAPEX": 1000000,
+      "OPEX": 10000,
+      "TotalCost": 1010000,
+      "Currency": "EURO"
+    },
+     "Approver":{
+      "FirstName": "",
+      "LastName": "",
+      "Email": "",
+      "UserId": "",
+      "Decision":"",
+      "Comment": ""
+    },
+    "Comments":[
+      
+    ]
+  }

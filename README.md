@@ -30,7 +30,7 @@ The requirements to follow the exercises in this repository are
 ## Exercises
 There are four excercises in this session. Excercise 0 and 1 are mandatory.
 
-**Excercise 0**: [Setup your SAP Cloud Platform Account](www.sap.com) 
+**Excercise 0**: [Setup your SAP Cloud Platform Account](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Excercise0/DEV264%20-%20Setup%20SAP%20%20Cloud%20Platform%20Trial%20Account.pdf) 
 
  Description - In this excercise you will subscribe Workflow Management and create the reuired Destinations.
 
