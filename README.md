@@ -60,7 +60,7 @@ Description: In this exercise you will model a workflow to configure a system ac
 
 Duration - 15 minutes
 
-**Exercise 5**: [Configure Process Visibility](www.sap.com)
+**Exercise 5**: [Configure Process Visibility](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise5/DEV264%20-%20Gain%20Process%20Visibility.pdf)
 
 Description: In this ex<ercise you will create a scenario, import your workflow from **Exercise 1**, configure phases, attributes , actions and performance indicators. You access process workspace , analyse process  performance indicators and trigger actions.
 
