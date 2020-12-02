@@ -14,7 +14,7 @@ The following key capablities are part of this service.
 - **My Inbox** - Enable business users to claim and complete their workflow tasks with FIORI user expereince. 
 Workflow management provides [**Live Process Content**](https://api.sap.com/themes/WorkflowManagement) enabling customers to accelerate workflow automation by configuring or extending these process content.
 
-In this excercise you will learn advanced capabilities of Workflow Management are included.
+In this exercise you will learn advanced capabilities of Workflow Management are included.
 - Prinicipal Propagation - How to call APIs from Workflow using the credentials of a process participant.
 - Reference Subflow - How to modularize workflows.
 - Substitution - Substitute a user during absence with another user so that all workflow tasks will be assigned to the substitute.
@@ -28,41 +28,41 @@ The requirements to follow the exercises in this repository are
 - Basic knowledge of SAP Cloud Platform
 
 ## Exercises
-There are four excercises in this session. Excercise 0 and 1 are mandatory.
+There are four exercises in this session. Exercise 0 and 1 are mandatory.
 
-**Excercise 0**: [Setup your SAP Cloud Platform Account](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Excercise0/DEV264%20-%20Setup%20SAP%20%20Cloud%20Platform%20Trial%20Account.pdf) 
+**Exercise 0**: [Setup your SAP Cloud Platform Account](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise0/DEV264%20-%20Setup%20SAP%20%20Cloud%20Platform%20Trial%20Account.pdf) 
 
- Description - In this excercise you will subscribe Workflow Management and create the reuired Destinations.
+ Description - In this exercise you will subscribe Workflow Management and create the reuired Destinations.
 
  Duration - 15 minutes
 
-**Excercise 1**: [Model SAP Cloud Platform Workflow](www.sap.com)
+**Exercise 1**: [Model SAP Cloud Platform Workflow](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise1/DEV264%20-%20Model%20Investment%20Approval%20Workfow.pdf)
 
-Description: In this excercise you will model workflow froms scratch and configure user tasks for approval.
+Description: In this exercise you will model workflow froms scratch and configure user tasks for approval.
 
 Duration - 30 minutes
 
-**Excercise 2**: [Execute and Montior Cloud Platform Workflow](www.sap.com)
+**Exercise 2**: [Execute and Montior Cloud Platform Workflow](www.sap.com)
 
-Description: In this excercise you will create instance of the modeled workflow, monitor the instance and complete the task.
+Description: In this exercise you will create instance of the modeled workflow, monitor the instance and complete the task.
 
 Duration - 5 minutes
 
-**Excercise 3**: [Insight to Action - User Action](www.sap.com)
+**Exercise 3**: [Insight to Action - User Action](www.sap.com)
 
-Description: In this excercise you will model a workflow to configure a user action to in SAP Cloud Platform Process Visibility
-
-Duration - 15 minutes
-
-**Excercise 4**: [Insight to Action - System Action](www.sap.com)
-
-Description: In this excercise you will model a workflow to configure a system action in SAP Cloud Platform Process Visibility
+Description: In this exercise you will model a workflow to configure a user action to in SAP Cloud Platform Process Visibility
 
 Duration - 15 minutes
 
-**Excercise 5**: [Configure Process Visibility](www.sap.com)
+**Exercise 4**: [Insight to Action - System Action](www.sap.com)
 
-Description: In this excercise you will create a scenario, import your workflow from **Excercise 1**, configure phases, attributes , actions and performance indicators. You access process workspace , analyse process  performance indicators and trigger actions.
+Description: In this exercise you will model a workflow to configure a system action in SAP Cloud Platform Process Visibility
+
+Duration - 15 minutes
+
+**Exercise 5**: [Configure Process Visibility](www.sap.com)
+
+Description: In this ex<ercise you will create a scenario, import your workflow from **Exercise 1**, configure phases, attributes , actions and performance indicators. You access process workspace , analyse process  performance indicators and trigger actions.
 
 Duration - 30 minutes
 
