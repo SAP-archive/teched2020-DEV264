@@ -14,8 +14,7 @@ The following key capabilities are part of this service.
 - **My Inbox** - Enable business users to claim and complete their workflow tasks with FIORI user expereince. 
 Workflow management provides [**Live Process Content**](https://api.sap.com/themes/WorkflowManagement) enabling customers to accelerate workflow automation by configuring or extending these process content.
 
-![workflow managment](/images/workflowmanagement.png)
-Format: ![Alt Text](url)
+![Workflow](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/images/workflowmanagement.png?raw=true)
 
 In this exercise you will learn advanced capabilities of Workflow Management are included.
 - Prinicipal Propagation - How to call APIs from Workflow using the credentials of a process participant.
