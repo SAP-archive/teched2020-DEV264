@@ -2,21 +2,24 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called DEV264 - Deep dive into  SAP Cloud Platform Workflow Management.
+This repository contains the material for the SAP TechEd 2020 session called DEV264 - Deep dive into SAP Cloud Platform Workflow Management.
 
 ## Overview
 
 SAP Cloud Platform Workflow Management is a serivce enabling customers to automate workflows, manage decisions and gain real time visibility into processes.
-The following key capablities are part of this service.
-- **Workflow** - Automating processes,extending processes or orchestrating process steps across line of business applications.
+The following key capabilities are part of this service.
+- **Workflow** - Automating processes, extending processes or orchestrating process steps across line of business applications.
 - **Business Rules** - Managing decisions centrally and seperat decision logic from application logic.
 - **Process Visivility** - Real time visibility into business process across processes and insight to actions.
 - **My Inbox** - Enable business users to claim and complete their workflow tasks with FIORI user expereince. 
 Workflow management provides [**Live Process Content**](https://api.sap.com/themes/WorkflowManagement) enabling customers to accelerate workflow automation by configuring or extending these process content.
 
+![workflow managment](/images/workflowmanagement.png)
+Format: ![Alt Text](url)
+
 In this exercise you will learn advanced capabilities of Workflow Management are included.
 - Prinicipal Propagation - How to call APIs from Workflow using the credentials of a process participant.
-- Reference Subflow - How to modularize workflows.
+- Reference Sub flow - How to modularize workflows.
 - Substitution - Substitute a user during absence with another user so that all workflow tasks will be assigned to the substitute.
 - Insight to Action - Notifying Process Admins or Process Owners as and when process status changes to Failed, Suspended, Overdue or threshold violation. Enable business users to perform action based on process status. for eg: Workflow task attributes like priority from process visiblity.
 - Configure Process Performance Indicators.
@@ -62,10 +65,9 @@ Duration - 15 minutes
 
 **Exercise 5**: [Configure Process Visibility](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise5/DEV264%20-%20Gain%20Process%20Visibility.pdf)
 
-Description: In this ex<ercise you will create a scenario, import your workflow from **Exercise 1**, configure phases, attributes , actions and performance indicators. You access process workspace , analyse process  performance indicators and trigger actions.
+Description: In this exercise you will create a scenario, import your workflow from **Exercise 1**, configure phases, attributes, actions and performance indicators. You access process workspace, analyse process  performance indicators and trigger actions.
 
 Duration - 30 minutes
-
 
 **IMPORTANT**
 
@@ -77,3 +79,5 @@ Support for the content in this repository is available during the actual time o
 
 ## License
 Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+
+
