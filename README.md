@@ -68,6 +68,13 @@ Description: In this exercise you will create a scenario, import your workflow f
 
 Duration - 30 minutes
 
+**Exercise 6**: [Modularize workflows using Reference Subflow](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise6/DEV264%20-%20%20Modularize%20workflows%20using%20Reference%20Subflow.pdf)
+
+Description: In this exercise you will learn how to modularize workflows using Refernece Subflow feature. You will reuse the workflow from **Exercise 1** as reference sublfow and create multiple approvals.
+
+Duration - 20 minutes
+
+
 ## How to obtain support
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
