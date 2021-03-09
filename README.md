@@ -1,12 +1,12 @@
-# DEV264 - Deep dive into SAP Cloud Platform Workflow Management
+# DEV264 - Deep dive into SAP Business Technology Platform Workflow Management
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called DEV264 - Deep dive into SAP Cloud Platform Workflow Management.
+This repository contains the material for the SAP TechEd 2020 session called DEV264 - Deep dive into SAP Business Technology Platform Workflow Management.
 
 ## Overview
 
-SAP Cloud Platform Workflow Management is a serivce enabling customers to automate workflows, manage decisions and gain real time visibility into processes.
+SAP Business Technology Platform Workflow Management is a serivce enabling customers to automate workflows, manage decisions and gain real time visibility into processes.
 The following key capabilities are part of this service.
 - **Workflow** - Automating processes, extending processes or orchestrating process steps across line of business applications.
 - **Business Rules** - Managing decisions centrally and seperat decision logic from application logic.
@@ -26,25 +26,25 @@ In this exercise you will learn advanced capabilities of Workflow Management are
 ## Requirements
 
 The requirements to follow the exercises in this repository are
-- SAP Cloud Platform Workflow Management Subscription
-- Basic knowledge of SAP Cloud Platform
+- SAP Business Technology Platform Workflow Management Subscription
+- Basic knowledge of SAP Business Technology
 
 ## Exercises
 There are four exercises in this session. Exercise 0 and 1 are mandatory.
 
-**Exercise 0**: [Setup your SAP Cloud Platform Account](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise0/DEV264%20-%20Setup%20SAP%20%20Cloud%20Platform%20Trial%20Account.pdf) 
+**Exercise 0**: [Setup your SAP Business Technology Platform Account](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise0/DEV264%20-%20Setup%20SAP%20%20Cloud%20Platform%20Trial%20Account.pdf) 
 
  Description - In this exercise you will subscribe Workflow Management and create the reuired Destinations.
 
  Duration - 15 minutes
 
-**Exercise 1**: [Model SAP Cloud Platform Workflow](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise1/DEV264%20-%20Model%20Investment%20Approval%20Workfow.pdf)
+**Exercise 1**: [Model SAP Business Technology Platform Workflow](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise1/DEV264%20-%20Model%20Investment%20Approval%20Workfow.pdf)
 
 Description: In this exercise you will model workflow froms scratch and configure user tasks for approval.
 
 Duration - 30 minutes
 
-**Exercise 2**: [Execute and Montior Cloud Platform Workflow](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise2/DEV264%20-%20Execute%20and%20Monitor%20Workflow.pdf)
+**Exercise 2**: [Execute and Montior Business Technology Platform Workflow](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise2/DEV264%20-%20Execute%20and%20Monitor%20Workflow.pdf)
 
 Description: In this exercise you will create instance of the modeled workflow, monitor the instance and complete the task.
 
@@ -52,13 +52,13 @@ Duration - 5 minutes
 
 **Exercise 3**: [Insight to Action - User Action](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise3/DEV264%20-%20Restart%20Workflow%20%20-%20Insight%20to%20Action.pdf)
 
-Description: In this exercise you will model a workflow to configure a user action to in SAP Cloud Platform Process Visibility
+Description: In this exercise you will model a workflow to configure a user action to in SAP Business Technology Platform Process Visibility
 
 Duration - 15 minutes
 
 **Exercise 4**: [Insight to Action - System Action](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise4/DEV264%20-%20Notify%20Process%20Administrators%20-%20Insight%20to%20Action.pdf)
 
-Description: In this exercise you will model a workflow to configure a system action in SAP Cloud Platform Process Visibility
+Description: In this exercise you will model a workflow to configure a system action in SAP Business Technology Platform Process Visibility
 
 Duration - 15 minutes
 
