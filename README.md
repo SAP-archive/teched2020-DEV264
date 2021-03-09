@@ -1,5 +1,7 @@
 # DEV264 - Deep dive into SAP Business Technology Platform Workflow Management
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-DEV264)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-DEV264)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session called DEV264 - Deep dive into SAP Business Technology Platform Workflow Management.
