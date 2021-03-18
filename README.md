@@ -8,12 +8,12 @@ This repository contains the material for the SAP TechEd 2020 session called DEV
 
 ## Overview
 
-SAP Business Technology Platform Workflow Management is a serivce enabling customers to automate workflows, manage decisions and gain real time visibility into processes.
+SAP Business Technology Platform Workflow Management is a servcie enabling customers to automate workflows, manage decisions and gain real time visibility into processes.
 The following key capabilities are part of this service.
 - **Workflow** - Automating processes, extending processes or orchestrating process steps across line of business applications.
-- **Business Rules** - Managing decisions centrally and seperat decision logic from application logic.
-- **Process Visivility** - Real time visibility into business process across processes and insight to actions.
-- **My Inbox** - Enable business users to claim and complete their workflow tasks with FIORI user expereince. 
+- **Business Rules** - Managing decisions centrally and seperate decision logic from application logic.
+- **Process Visibility** - Real time visibility into business process across processes and insight to actions.
+- **My Inbox** - Enable business users to claim and complete their workflow tasks with FIORI user experience. 
 Workflow management provides [**Live Process Content**](https://api.sap.com/themes/WorkflowManagement) enabling customers to accelerate workflow automation by configuring or extending these process content.
 
 ![Workflow](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/images/workflowmanagement.png?raw=true)
@@ -29,12 +29,12 @@ In this exercise you will learn advanced capabilities of Workflow Management are
 
 The requirements to follow the exercises in this repository are
 - SAP Business Technology Platform Workflow Management Subscription
-- Basic knowledge of SAP Business Technology
+- Basic knowledge of SAP Business Technology Platform
 
 ## Exercises
 There are four exercises in this session. Exercise 0 and 1 are mandatory.
 
-**Exercise 0**: [Setup your SAP Business Technology Platform Account](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise0/DEV264%20-%20Setup%20SAP%20%20Cloud%20Platform%20Trial%20Account.pdf) 
+**Exercise 0**: [Setup your SAP Business Technology Platform Account](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/Exercise0/DEV264%20-%20Setup%20SAP%20%20Business%20Technology%20Platform%20Trial%20Account.pdf) 
 
  Description - In this exercise you will subscribe Workflow Management and create the reuired Destinations.
 
