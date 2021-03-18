@@ -19,7 +19,7 @@ Workflow management provides [**Live Process Content**](https://api.sap.com/them
 ![Workflow](https://github.com/SAP-samples/teched2020-DEV264/blob/main/exercises/images/workflowmanagement.png?raw=true)
 
 In this exercise you will learn advanced capabilities of Workflow Management are included.
-- Prinicipal Propagation - How to call APIs from Workflow using the credentials of a process participant.
+- Principal Propagation - How to call APIs from Workflow using the credentials of a process participant.
 - Reference Sub flow - How to modularize workflows.
 - Substitution - Substitute a user during absence with another user so that all workflow tasks will be assigned to the substitute.
 - Insight to Action - Notifying Process Admins or Process Owners as and when process status changes to Failed, Suspended, Overdue or threshold violation. Enable business users to perform action based on process status. for eg: Workflow task attributes like priority from process visiblity.
